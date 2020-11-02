@@ -9,6 +9,8 @@ for i in range(1,101):
         print(i,"number is odd")
 for i in range(1,11):
     print(i*2)
+for i in range(1,11):
+    print(i*3)
 #adding print statement
 
 # select="prav1345inc2h3a4n5dra5she7kh8a9rbankar"
