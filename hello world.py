@@ -2,7 +2,7 @@ Object1="this is the first programm i am printing on console"
 print(Object1)
 # lets start with new learing
 
-for i in range(1,101):
+for i in range(1,11):
     if i%2==0:
         print(i,"number is event")
     else:
